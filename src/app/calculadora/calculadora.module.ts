@@ -18,4 +18,4 @@ import { CalculadoraService } from './services';
 ]
 })
 
-export class CalculadoraModule { }
+export class CalculadoraModule {}
